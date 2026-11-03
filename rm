@@ -1,0 +1,78 @@
+Practical 1
+
+
+Practical 2 
+Conduct literature review for the selected topic using Google schollar
+Author year,focus/study type,key finding, methodology,research gao identified 
+
+
+Practical 03 - Formulation of research objectives and hypotheses
+
+Research Problem What exactly should be investigated?
+Research Question Frame 2–3 questions that the study should answer
+Independent Variable Identify the presumed influencing variable
+Dependent Variable(s) Identify the outcome variable(s)
+Research Objectives Formulate 3–5 objectives
+Frame the Questionnaires
+for Data Collection
+List of questions and options (Closed / Open ended
+questions) Can make a Google Form for this
+Null Hypothesis (H₀) Formulate at least 2 null hypotheses
+Alternative Hypothesis (H₁) Formulate corresponding alternative hypotheses
+
+
+
+Practical 4 prepare anoted bibliography of 10 research paper
+Bibliography 
+Citation 
+APA style
+Annotated bibliography  = citation + short description + critical evaluation +relevance to your research
+
+
+Practical 5
+Design reasearch methodology for selected problem
+
+Research Problem Statement
+Research Objectives Research Questions/Hypotheses Research Approach
+Research Design
+Identify the Population and Decide the Sample Select Sampling Techrnique Identify the Variables Decide the Data Colection Method Design the Data Collection Instrument Decide the Data Analysis Technique Select the Tools/Software Include Ethical Considerations
+Proposed Research Procedure
+ _>Entire methodology in the form of flow charts.
+
+
+Practical 6 sample data collection and design the software framework 
+Task:A sameple data collection (questionnaire)
+Task:B Software framework design (Create arch diagram)( Draw a Block/Flow Chart diagram showing input processing output. 3. Identify the main modules and explain the purpose of each. 4. Specify data sources, input fields, expected outputs, and the proposed technology stack.)
+
+Practical 7 data analysis and develop a algorithm 
+
+Example: Study Habits and Academic Performance Research Problem: A college wants to understand how students' study habits relate to their academic performance.
+Data required: Anonymous student ID, daily study hours, attendance percentage, assignment completion percentage, and examination marks. Tasks:
+Check for missing values, duplicates, and invalid entries. Calculate mean, median, minimum, and maximum for study hours and marks. Group students by daily study hours: below 1 hour, 1-3 hours, and above 3 Compare average marks across these groups. Create a scatter plot of study hours against marks and calculate their correlation. Interpret the findings, recognising that correlation alone does not establish
+Result:  Cleaned data set , and short conclusion answering research question
+
+
+Practical 08
+Generate statistical summaries / charts / testing on data
+Aim:
+To apply descriptive statistics, visualisation, and an appropriate statistical test to answer
+a research question.
+Example: Study hours and Academic Performance.
+Research Question: Is there a relationship between weekly study hours and
+examination scores among college students?
+Dataset Columns: Student ID, programme, weekly study hours, and examination
+score.
+Tasks:
+● Calculate count, mean, median, mode, standard deviation, minimum, maximum.
+● Generate a programme-wise frequency table.
+● Create a histogram of scores, a programme-wise bar chart, and a scatter plot of
+study hours against scores.
+Tools can be used: Excel, Python with pandas/SciPy/Matplotlib/Seaborn, SPSS, or
+another suitable statistical package.
+Practical submission:
+A cleaned dataset, summary tables, three charts, and a brief interpretation.
+
+
+
+
+
